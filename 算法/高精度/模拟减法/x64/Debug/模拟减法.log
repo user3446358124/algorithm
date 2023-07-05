@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\lbj34\OneDrive - Henan\code\algorithm\算法\高精度\模拟减法\FileName.cpp(17,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lbj34\OneDrive - Henan\code\algorithm\算法\高精度\模拟减法\FileName.cpp(35,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lbj34\OneDrive - Henan\code\algorithm\算法\高精度\模拟减法\FileName.cpp(38,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lbj34\OneDrive - Henan\code\algorithm\算法\高精度\模拟减法\FileName.cpp(43,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  模拟减法.vcxproj -> C:\Users\lbj34\OneDrive - Henan\code\algorithm\算法\高精度\模拟减法\x64\Debug\模拟减法.exe
